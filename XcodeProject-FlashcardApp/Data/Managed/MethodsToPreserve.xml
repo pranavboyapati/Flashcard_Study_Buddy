@@ -1,0 +1,46 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="AutofillDefinition">
+			<method name="Definition"/>
+		</type>
+		<type fullname="ButtonPressed">
+			<method name="Clicked"/>
+		</type>
+		<type fullname="CreateSetsButton">
+			<method name="Click"/>
+		</type>
+		<type fullname="EnterDefinitionTimingControl">
+			<method name="TextTyped"/>
+		</type>
+		<type fullname="FlipCard">
+			<method name="ClickCard"/>
+		</type>
+		<type fullname="HomeButton">
+			<method name="Click"/>
+		</type>
+		<type fullname="HomeButtonPracticePage">
+			<method name="click"/>
+		</type>
+		<type fullname="HomeButtonSelectSet">
+			<method name="Clicked"/>
+		</type>
+		<type fullname="NextButton">
+			<method name="Click"/>
+		</type>
+		<type fullname="NextFlashcard">
+			<method name="Click"/>
+		</type>
+		<type fullname="PracticeSetsButton">
+			<method name="Click"/>
+		</type>
+		<type fullname="PreviousFlashcard">
+			<method name="Click"/>
+		</type>
+		<type fullname="SaveAndAddAnother">
+			<method name="Click"/>
+		</type>
+		<type fullname="SaveAndFinish">
+			<method name="Click"/>
+		</type>
+	</assembly>
+</linker>
