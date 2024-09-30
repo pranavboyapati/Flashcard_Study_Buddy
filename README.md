@@ -1,0 +1,1 @@
+This repository contains all the resources I used to develop the app Flashcard Study Buddy using Unity and C#. This app is available at [https://apps.apple.com/bb/app/flashcards-study-buddy/id6503954428](url).
