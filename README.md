@@ -1,4 +1,4 @@
-# Flashcard Study Buddy 📚
+# Flashcard Study Buddy
 
 > A customizable flashcard app built with Unity and C#, available now on iOS devices.
 
